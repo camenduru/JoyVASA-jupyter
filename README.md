@@ -17,5 +17,9 @@ https://arxiv.org/abs/2411.09209
 ### 🌐 Page
 https://jdh-algo.github.io/JoyVASA/
 
+### 🖼 Output
+
+https://github.com/user-attachments/assets/337ed87b-59b4-49e3-997b-0e0609140a2b
+
 ### 🏢 Sponsor
 [https://runpod.io](https://runpod.io?ref=iqi9iy8y)
